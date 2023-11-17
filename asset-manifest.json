@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tdmr/static/css/main.ded900b9.css",
+    "main.js": "/tdmr/static/js/main.0c9e4e2e.js",
+    "static/media/zelda botw.jpg": "/tdmr/static/media/zelda botw.c9e1f70fb6e2bb05118d.jpg",
+    "static/media/delete-1-svgrepo-com.svg": "/tdmr/static/media/delete-1-svgrepo-com.618b88f5d52dda224e60d43afbc1bc14.svg",
+    "index.html": "/tdmr/index.html",
+    "static/media/new-check.svg": "/tdmr/static/media/new-check.fe4902da11b4b366eec7f1b785e14a85.svg",
+    "main.ded900b9.css.map": "/tdmr/static/css/main.ded900b9.css.map",
+    "main.0c9e4e2e.js.map": "/tdmr/static/js/main.0c9e4e2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ded900b9.css",
+    "static/js/main.0c9e4e2e.js"
+  ]
+}
